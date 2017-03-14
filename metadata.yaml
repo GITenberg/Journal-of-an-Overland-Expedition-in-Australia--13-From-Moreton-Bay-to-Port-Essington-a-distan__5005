@@ -1,5 +1,8 @@
 _repo: Journal-of-an-Overland-Expedition-in-Australia--13-From-Moreton-Bay-to-Port-Essington-a-distan__5005
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Leichhardt, Ludwig
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1633
     wikipedia: http://en.wikipedia.org/wiki/Ludwig_Leichhardt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5005#Journal-of-an-Overland-Expedition-in-Australia--13-From-Moreton-Bay-to-Port-Essington-a-distan_
 gutenberg_bookshelf: Australia
 gutenberg_issued: '2004-09-25'
 gutenberg_type: Text
